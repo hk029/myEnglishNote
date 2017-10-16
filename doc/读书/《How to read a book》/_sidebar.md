@@ -1,4 +1,0 @@
-- [_sidebar.md](s./读书/《How to read a book》/_sidebar.md)
-- [《How to read a book》1.md](s./读书/《How to read a book》/《How to read a book》1.md)
-- [文章架构.md](s./读书/《How to read a book》/文章架构.md)
-- [阅读的阶段.md](s./读书/《How to read a book》/阅读的阶段.md)

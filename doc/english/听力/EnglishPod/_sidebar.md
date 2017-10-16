@@ -1,3 +1,0 @@
-- [_sidebar](/听力/EnglishPod)
-- [englishpod1-10](/听力/EnglishPod/englishpod1-10.md)
-- [englishpod1-30](/听力/EnglishPod/englishpod1-30.md)

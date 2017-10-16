@@ -1,2 +1,0 @@
-- [_sidebar.md](s./方法论/_sidebar.md)
-- [如何阅读.md](s./方法论/如何阅读.md)
