@@ -55,10 +55,10 @@ function readDir(path) {
     }
     if(navtxt !== ''){
       navtxt += '- [🔙返回上级](n../)\n';
-      fs.writeFileSync(path+'/'+'_navbar.md',navtxt);
+      fs.writeFileSync(path+'/'+'navbar.md',navtxt);
     }
     fs.writeFileSync(path+'/'+'_conf.json',JSON.stringify(json));
-    fs.writeFileSync(path+'/'+'_sidebar.md',sidetxt);
+    fs.writeFileSync(path+'/'+'sidebar.md',sidetxt);
   }
   findMore(path,true);
   return mydir;
