@@ -1,0 +1,3 @@
+- [cur](/test)
+- [zh](/zh-cn/ ":ignore")
+- [guide](zh-cn/guide)

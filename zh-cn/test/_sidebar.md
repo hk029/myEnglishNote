@@ -1,0 +1,2 @@
+- [test1](zh-cn/)
+- [test2](zh-cn/guide)

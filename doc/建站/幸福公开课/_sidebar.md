@@ -1,0 +1,2 @@
+- [_sidebar.md](s./幸福公开课/_sidebar.md)
+- [lesson3 驱除忧愁和抑郁不会增加幸福](s./幸福公开课/lesson3 驱除忧愁和抑郁不会增加幸福)
