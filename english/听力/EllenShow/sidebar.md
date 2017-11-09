@@ -1,2 +1,0 @@
-- [EllenShow](/听力/EllenShow)
-- [sidebar](/听力/EllenShow/sidebar.md)

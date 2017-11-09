@@ -36,8 +36,8 @@ function readDir(path) {
             //如果没有README.md文件，那么把第一个文件生成README文件
             if(first && !json.side['README']){
               fs.renameSync(curFile,path+'/README.md');
-              json.side[pureFile] = path;
-              json.side['README'] = path;
+              json.side[pureFile] = path+'/';  
+              json.side['README'] = path+'/';
               first = false;
             }else {
               json.side[pureFile] = curFile;
