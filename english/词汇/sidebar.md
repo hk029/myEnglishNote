@@ -1,5 +1,3 @@
-- [Animals](/词汇)
-- [Countries](/词汇/Countries.md)
+- [sidebar](/词汇/sidebar.md)
 - [出生](/词汇/出生.md)
 - [形容词](/词汇/形容词.md)
-- [sidebar](/词汇/sidebar.md)
