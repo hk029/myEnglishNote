@@ -47,16 +47,16 @@ function readDir(path) {
       }
     });
     for(key in json.side){
-      if(key !== 'README')
+      if(key !== 'README' && key !== 'sidebar')
         sidetxt += `- [${key}](${json.side[key].substr(1)})\n`
     }
     for(key in json.nav){
         navtxt += `- [${key}](${json.nav[key].substr(1)}/)\n`
     }
-    if(navtxt !== ''){
+    // if(navtxt !== ''){
       navtxt += '- [🔙返回上级](n../)\n';
       fs.writeFileSync(path+'/'+'navbar.md',navtxt);
-    }
+    // }
     fs.writeFileSync(path+'/'+'_conf.json',JSON.stringify(json));
     fs.writeFileSync(path+'/'+'sidebar.md',sidetxt);
   }
