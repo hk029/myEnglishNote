@@ -18,5 +18,7 @@
   "bugs": {
     "url": "https://github.com/hk029/myEnglishNote/issues"
   },
-  "homepage": "https://github.com/hk029/myEnglishNote#readme"
+  "homepage": "https://github.com/hk029/myEnglishNote#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
