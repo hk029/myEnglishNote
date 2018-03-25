@@ -2,17 +2,240 @@
 
 
 
-## englishpod
+# englishpod
 
-## 1
+## 001DL -  Difficult Customer
 
-you know what.
+- **`you know what.`**  你知道吗？（一个非常常用地道的口语句子. 用来引出强调后面的事情）
 
-你知道吗？一个非常常用地道的口语句子. 用来引出强调后面的事情
+- **`I’m still working on it`** = still need some time 我还在看/我还在做 
+
+- **coke and fries**.  可乐薯条
+
+- `grab` =  go get quickly.
+
+  > I’ll just **<u>go grab</u>** a burger across the street
+
+### 点菜
+
+- May/Can I `take your order`?
+
+  您要点菜吗? 
+
+  please take my order
+
+  You do the ordering. 你点菜吧。
+
+- `What’s good here?`  
+
+  = what are you recommend
+
+
+- `come with` 伴随
+
+  > Does it come with coke and fries? 
+
+  **a complementary glass of wine.**  免费的酒水
+
+  > It comes with either soup or salad and a complimentary glass of wine, Sir.
+
+- `I'll go with`
+
+  **= I'll take .**
 
 
 
-## 10
+## 002OF - Calling In Sick
+
+- `Calling In Sick` 请病假
+
+- `take the day/week off `请一天/一周假
+
+  > oh, I’m gonna take a `personal day`  因为私人事务 请一天假
+
+- I am on my `period`.  我来例假了
+
+  I'm having a period
+
+  My aunt Flo is visiting
+
+### 疾病相关
+
+- I’m `coming down with`  =  starting to get sick
+
+  > My throat really hurts. I think I’m **<u>coming down with</u>** a cold. 
+  >
+  > I don’t feel well. I think I’m **<u>coming down with</u>** something. 
+
+
+- `Quite` ill = very ill
+
+- flu 流感
+
+  bird flu 禽流感
+
+- fever 发烧
+
+- `slightly` feverish 轻微的发热
+
+- `sore` throat/arm/neck  喉咙/手臂/脖子痛
+
+- `Running nose` 流鼻涕
+
+### 礼貌表达
+
+- `I was hoping` = I want
+
+  = `I was thinking of` 
+
+
+
+## 003DL - Hotel Upgrade
+
+-  `come in handy`  迟早有用
+
+  > There some tips may come in handy
+
+- under the name  ...名下
+
+- `mix-up` （由混乱引起）错误
+
+  > I’m sorry, sir, there’s been a terrible mix-up. We’ve given you the wrong baby
+
+- `Well put` 说的好
+
+- `be sure to` 一定要
+
+  > Be sure to listen to the radio the same time, tomorrow.
+
+### 酒店入住
+
+- check in 入住
+
+- reservation = `book` 预定
+
+  > I  have a reservation under the name ...
+
+- `overbooked` 订满（酒店，飞机……）
+
+- `complementary upgrade`  免费升级，升舱
+
+  if you are in "**<u>economy class(经济舱)</u>**" in an airplane, but for some reason it's overbooked, they will move you to "<u>**business class**</u>(商务舱)" or “**<u>first class</u>**（头等舱）" for free.
+
+- standard Room 标间
+
+- Deluxe Room 豪华间
+
+- presidential suite[发音像sweet，不是suit] 总统套房
+
+- king bed 大床
+
+
+## 004OF- I need an assistant
+
+### 公司财政
+
+- `understaffed` 人手不足
+
+
+- `the timing is just not right` 时机不对
+
+  >  The timing is just not right. The economy is bad, and it’s too **risky** to take on new staff.
+
+- take some of the `weight off my shoulders`. 帮我分担一点肩头重担
+
+- `give me a hand (with)` 帮我一下
+
+  >  Can you <u>**give me a hand with**</u> these boxes? 
+
+- `keep our costs down` 降低成本
+
+  >Hire **intern**(实习生) will keep our costs down.
+
+- reasonable 合理的
+
+  > That sounds reasonable 听起来很合理
+
+-  `elaborate on` 详细说明
+
+  >  He said he was resigning but did not elaborate on his reasons.     他说他准备辞职但未详细说明原因
+
+- sexist   性别歧视者
+
+
+
+## 005DL - Cut In Line
+
+- will be in/on 表示未来的位置状态
+
+  > we’ll be in Hawaii and you’ll be on the golf course
+
+- a mile long 十分长
+
+- `there’s no way`. = It is impossible
+
+  > The stadium is so crowded that there’s now way we’ll find a seat
+
+- **in a way** 某种程度上
+
+  > in a way, these poor people are as rich as kings.就某方面而言，这些穷人却像国王一样富有。
+
+- sue me  告我啊！？
+
+### 排队
+
+美：line  英国：queue
+
+- **`Cut in line`** = **`jumping the queue`** [B]  插队
+- `line up` = `form the queue` 形成一个排队
+- wait in line 排队
+
+
+
+## 006WD - Road Trip
+
+- `road trip`  = travle by car
+
+
+- the car’s `packed` = Everything you need is inside the car
+
+- `munchies`/'mʌntʃɪz/ = Snacks, food, Chips, cookies  小点心
+
+- `fill up` the tank = put gas in the `gas tank`. 给汽车加满油
+
+- pit stop 歇脚（长途旅程中用餐、加油或上厕所等的）
+
+- `We’ve got all our bases covered.` 一切准备就绪
+
+  > Okay, I have my keys, wallet and passport. Looks like I have **<u>all my bases covered</u>**.
+
+- **`let’s get going`** = let's start, let's go
+
+  > I have the chicken, so, <u>**let’s get**</u> cooking
+  >
+  > I have another meeting in twenty minutes, so, **<u>let’s get down to</u>**(开始着手做) business.
+
+  ​
+
+- So, are we all ready to go? 
+
+- it’s all set. 
+
+- campfire 营火
+
+- a bunch of 一群，一束
+
+## 007OF - The Virus
+
+- infected file 受感染的文件
+
+- `not up to date` 没有更新
+
+  > I can’t find this street. Are you sure this map is up to date?
+
+
+
+# 010
 
 `drive sales` 提升销量
 
@@ -20,7 +243,7 @@ you know what.
 
 `brilliant idea` = great idea
 
-2 for 1 `promotion` = buy one get one free
+`2 for 1 `promotion = buy one get one free
 
 `match the competitor`  匹配竞争者（可能是价格，
 
@@ -360,6 +583,13 @@ you know what.
 
 I'm so sorry. I feel terrible, please accept my  apologize
 
-
-
 I didn't mean to knock you over. it was an accident. 
+
+
+
+## 21 what do you do
+
+`go on about `:keeps talking about sth 一直说 
+
+> My parents always going on about how I should get married.
+
