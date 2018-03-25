@@ -22,7 +22,7 @@ Rome refer to Rome Empire.
 >
 > discouraging adj. 泄气的
 
-
+`foul language`  下流话
 
 ### 讲解
 

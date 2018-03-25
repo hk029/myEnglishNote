@@ -42,17 +42,18 @@ therefore/however 放句首，中间都行，但是国外喜欢放`中间`
 
 2. **worry vt/n. 担心**
 
-> My only worry is that...  我唯一担心的是
+   > My only worry is that...  我唯一担心的是
+   >
+   > `be worried about` 担心
+   >
+   > I'm worried about you. 我担心你
+   >
+   > `worry sb (with sth) `  = `bother` 骚扰；烦扰；使不安宁，使担忧 
+   >
+   > > The noise never seems to worry her.    这噪音似乎从不让她厌烦。 
+   > >
+   > >  He's daughter worried himself sick (= become extremely anxious) about his daughter.他的女儿可把他愁坏了。
 
-`be worried about` 担心
-
-I'm worried about you. 我担心你
-
-`worry sb (with sth) ` 骚扰；烦扰；使不安宁，使担忧
-
-> The noise never seems to worry her.    这噪音似乎从不让她厌烦。 
->
->  He's daughter worried himself sick (= become extremely anxious) about his daughter.他的女儿可把他愁坏了。
 
 3. **get rid of**  摆脱 = quit/give up
 

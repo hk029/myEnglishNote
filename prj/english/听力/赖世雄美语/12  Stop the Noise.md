@@ -11,7 +11,6 @@ encourage 鼓励
 
 
 ```
-Mr. Chen is talking to his neighbor Mrs. Wang. 
 C: May I have a word with you? 
 W: Sure. What's the problem? 
 C: It's about your son. I'm tired of his making so much noise at all hours of the day. 
@@ -79,8 +78,6 @@ I am tired of that 从句   `X`  that 前面不能直接跟介词
 
 > I am tired of my son('s) talking on the phone all the night
 
-
-
 I am curious about that he studies hard.  `X`   
 
 变化
@@ -107,15 +104,8 @@ I am curious about that he studies hard.  `X`
 
    =`with intention`
 
-   =` intentionaly`
+   =` intentionaly`​
 
-2. ​
-
-   ​
-
-   ​
-
-   ​
 
 ## C: I'm sure he's not. But we can do without the noise pollution, you know?
 
